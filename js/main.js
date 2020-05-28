@@ -77,7 +77,9 @@ var MM = (function() {
 			var wrapper = parentWrapper[0].getElementsByClassName("container");
 			if (wrapper.length > 0) {
 				return wrapper[0];
-			}
+			} else {
+        return parentWrapper[0];
+      }
 		}
 	};
 
