@@ -1,0 +1,3 @@
+[submodule "modules/chin"]
+	path = modules/chin
+	url = git@github.com:jack-michaud/magicmirror2-react-module.git
