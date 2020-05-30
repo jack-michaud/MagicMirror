@@ -15,12 +15,13 @@ Module.register("compliments", {
 				"Hey there sexy!"
 			],
 			morning: [
-				"Good morning, handsome!",
+				"Good morning, swantch!",
 				"Enjoy your day!",
 				"How was your sleep?"
 			],
 			afternoon: [
 				"Hello, beauty!",
+        "Big ol' haunch...",
 				"You look sexy!",
 				"Looking good today!"
 			],
